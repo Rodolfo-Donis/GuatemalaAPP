@@ -28,3 +28,18 @@ Para usar el HttpClientModule, se debe importar el  al app.module:
 ```sh
 headers:{'Authorization' : accessToken
 ```
+
+
+## PASOS ANDROID BUILD 
+
+
+- en la terminal del proyecto, agregar los siguientes comandos:
+> npm i -g cordova
+> ionic cordova platform add android
+
+en la carpeta platforms, se encontrara el codigo para plataforma android o ios
+
+> ionic cordova build android
+> ionic cordova run android
+
+
