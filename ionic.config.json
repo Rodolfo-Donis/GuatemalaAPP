@@ -1,5 +1,7 @@
 {
   "name": "guatemalaApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

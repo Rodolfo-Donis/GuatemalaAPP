@@ -1,0 +1,54 @@
+[{
+        "id": "1",
+        "name": "Iniciativa post covid19",
+        "gender": "Turismo",
+        "description": "Planea tu viaje dentro de Guatemala al terminar la pandemia"
+
+    },
+    {
+        "id": "2",
+        "name": "curso gratuito desarrollo web",
+        "gender": "Evento",
+        "description": "Aprende lo basico de desarrollo web online"
+
+    },
+    {
+        "id": "3",
+        "name": "Deleita los startups chapines",
+        "gender": "Comida",
+        "description": "Prueba comida de estos emprendedores guatemaltecos"
+
+    },
+    {
+        "id": "4",
+        "name": "Estrenos Netflix 2020",
+        "gender": "Cine",
+        "description": "Encuentra los nuevos lanzamientos para tu entretenimiento"
+    },
+    {
+        "id": "5",
+        "name": "Jornadas medicas gratuitas",
+        "gender": "Social",
+        "description": "Chequea los horarios de estas jornadas medicas en la ciudad de Guatemala"
+    },
+    {
+        "id": "6",
+        "name": "Viaje virtual al lago de Atitlan",
+        "gender": "Turismo",
+        "description": "Recuerda las maravillas de nuestro hermoso lago."
+
+    },
+    {
+        "id": "7",
+        "name": "Estrenos Amazon Video 2020",
+        "gender": "Cine",
+        "description": "Encuentra los nuevos lanzamientos para tu entretenimiento."
+    },
+    {
+        "id": "8",
+        "name": "Avances de cura para covid-19",
+        "gender": "Tecnologia",
+        "description": "la vacuna oxford desencadena respuesta inmune contra el virus."
+    }
+
+]
