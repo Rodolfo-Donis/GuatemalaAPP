@@ -35,6 +35,8 @@ headers:{'Authorization' : accessToken
 
 - en la terminal del proyecto, agregar los siguientes comandos:
 > npm i -g cordova
+
+
 > ionic cordova platform add android
 
 en la carpeta platforms, se encontrara el codigo para plataforma android o ios
