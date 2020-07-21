@@ -25,6 +25,9 @@ Para usar el HttpClientModule, se debe importar el  al app.module:
 > GET/POST : funciones para obtener  algun atributo o una coleccion de datos o mandar datos al servidor
 - HTTP.GET('param') /HTTP.POST('param') : en donde el parametro es la direccion del servicio el cual nos brindara los datos necesarios
 -HEADERS: dentro del header de la consulta, se agrega el token de seguridad para consumir los servicios de promociones en el servidor.
+- Debido al accessToken, las consultas al API deben de llevar este token , de lo contrario no se encontraran los serivicios disponibles.
+
+
 ```sh
 headers:{'Authorization' : accessToken
 ```
